@@ -1,5 +1,5 @@
 
-# 🔐 Janitri Login Page Automation – QA Internship Assignment
+# 🔐 Janitri Login Page Automation 
 
 This repository contains an automated test suite for the **Janitri Dashboard Login Page**, developed as part of the **QA Internship Assignment**.  
 The automation framework uses **Java, Selenium WebDriver, TestNG**, and follows the **Page Object Model (POM)** design pattern.
